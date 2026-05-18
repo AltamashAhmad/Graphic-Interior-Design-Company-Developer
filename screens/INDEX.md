@@ -14,11 +14,11 @@
 | 4 | Design Details | � In Analysis | 22–27 hrs | 3,500–4,500 | [screen-04-design-details.md](screen-04-design-details.md) |
 | 5 | 3D Loading Screen | ✅ Analyzed | 7–10 hrs | 1,050–1,500 | [screen-05-3d-loading.md](screen-05-3d-loading.md) |
 | 6 | 3D Customization (CORE) | � In Analysis | 61–84 hrs | 15,000–25,000 (3D module) | [screen-06-3d-customization.md](screen-06-3d-customization.md) |
-| 7 | Save Design | 🔲 Pending | TBD | TBD | [screen-07-save-design.md](screen-07-save-design.md) |
-| 8 | Final Preview | 🔲 Pending | TBD | TBD | [screen-08-final-preview.md](screen-08-final-preview.md) |
-| 9 | Checkout | 🔲 Pending | TBD | TBD | [screen-09-checkout.md](screen-09-checkout.md) |
-| 10 | Order Confirmation | 🔲 Pending | TBD | TBD | [screen-10-confirmation.md](screen-10-confirmation.md) |
-| 11 | Profile (My Designs) | 🔲 Pending | TBD | TBD | [screen-11-profile.md](screen-11-profile.md) |
+| 7 | Save Design | ✅ Analyzed | 13–18 hrs | 1,950–2,700 | [screen-07-save-design.md](screen-07-save-design.md) |
+| 8 | Final Preview | ✅ Analyzed | 11–14 hrs | 1,650–2,100 | [screen-08-final-preview.md](screen-08-final-preview.md) |
+| 9 | Checkout | ✅ Analyzed | 12–16 hrs (inquiry) / 23–32 hrs (card) | 1,800–2,400 / 3,450–4,800 | [screen-09-checkout.md](screen-09-checkout.md) |
+| 10 | Order Confirmation | ✅ Analyzed | 6–8 hrs | 900–1,200 | [screen-10-confirmation.md](screen-10-confirmation.md) |
+| 11 | Profile (My Designs) | ✅ Analyzed | 19–28 hrs | 2,850–4,200 | [screen-11-profile.md](screen-11-profile.md) |
 
 ---
 
@@ -43,11 +43,12 @@
 | Screen 4 — Design Details | 22–27 hrs | 3,500–4,500 | 🔄 In Analysis |
 | Screen 5 — 3D Loading | 7–10 hrs | 1,050–1,500 | ✅ Analyzed |
 | Screen 6 — 3D Customization | 61–84 hrs | 15,000–25,000 (3D module) | 🔄 In Analysis |
-| Screen 7 — Save Design | TBD | TBD | 🔲 Pending |
-| Screen 8 — Final Preview | TBD | TBD | 🔲 Pending |
-| Screen 9 — Checkout | TBD | TBD | 🔲 Pending |
-| Screen 10 — Confirmation | TBD | TBD | 🔲 Pending |
-| Screen 11 — Profile | TBD | TBD | 🔲 Pending |
+| Screen 7 — Save Design | 13–18 hrs | 1,950–2,700 | ✅ Analyzed |
+| Screen 8 — Final Preview | 11–14 hrs | 1,650–2,100 | ✅ Analyzed |
+| Screen 9 — Checkout (inquiry) | 12–16 hrs | 1,800–2,400 | ✅ Analyzed |
+| Screen 9 — Checkout (card payment) | 23–32 hrs | 3,450–4,800 | ✅ Analyzed |
+| Screen 10 — Confirmation | 6–8 hrs | 900–1,200 | ✅ Analyzed |
+| Screen 11 — Profile | 19–28 hrs | 2,850–4,200 | ✅ Analyzed |
 | Backend — Auth + Users | TBD | TBD | 🔲 Pending |
 | Backend — Categories + Designs API | TBD | TBD | 🔲 Pending |
 | Backend — Orders + Payments | TBD | TBD | 🔲 Pending |
